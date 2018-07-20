@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.company.howl.howlstagram"
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+    implementation 'com.android.support:appcompat-v7:27.0.2'
+    /*코드 추가*/
+    //Material Design
+    implementation 'com.android.support:design:27.0.2'
+    //Recycler View
+    implementation 'com.android.support:recyclerview-v7:27.0.2'
+    //FaceBook 지원
+    implementation 'com.facebook.android:facebook-android-sdk:[4,5)'
+    //파이어베이스 로그인 지원
+    implementation 'com.google.firebase:firebase-auth:12.0.0'
+    //파이어베이스 파일 스토리지
+    implementation 'com.google.firebase:firebase-storage:12.0.0'
+    //파이어베이스 파이어스토어 데이터베이스
+    implementation 'com.google.firebase:firebase-firestore:12.0.0'
+    //이미지 로더 라이브러리
+    implementation 'com.github.bumptech.glide:glide:4.0.0'
+    //구글 로그인 지원
+    implementation 'com.google.android.gms:play-services-auth:12.0.0'
+    //트위터 라이브러리
+    implementation 'com.twitter.sdk.android:twitter:3.1.1'
+    //푸시 알람 라이브러리
+    implementation 'com.google.firebase:firebase-messaging:12.0.0'
+    //Okhttp 라이브러리
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    //Gson 라이브러리
+    implementation 'com.google.code.gson:gson:2.8.4'
+
+
+    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+}
+apply plugin: 'com.google.gms.google-services'
