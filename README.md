@@ -27,3 +27,12 @@
 - 알라딘 (http://aladin.kr/p/ZKMQ4)
 - 예스24 (http://www.yes24.com/24/goods/62495788)
 - 인터파크 (https://bit.ly/2uIVGeM)
+
+▶자바 소스코드(개발자 권병수)
+
+하울스타그램 v1.0
+ - RealTimeDatabase
+ - Facebook, GoogleLogin, Email Login
+ - Java 언어
+
+https://github.com/stack07142/firebase-photos
