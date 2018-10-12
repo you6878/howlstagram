@@ -34,3 +34,6 @@
  - RealTimeDatabase
  - Facebook, GoogleLogin, Email Login
  - Java 언어
+ 
+📖 저작권
+책을 구매하시거나 혹은 앱을 만들고 저으 유튜브 채널을 홍보해주시면 따로 저작권에 대한 문제는 없습니다!
