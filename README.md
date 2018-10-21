@@ -23,10 +23,7 @@
 - 이론적인 내용보다 실무적인 부분을 배우고 싶은 독자
 
 ▶구입
-- 교보문고 (https://bit.ly/2LvGuLD)
-- 알라딘 (http://aladin.kr/p/ZKMQ4)
 - 예스24 (http://www.yes24.com/24/goods/62495788)
-- 인터파크 (https://bit.ly/2uIVGeM)
 
 ▶자바 소스코드(개발자 권병수)
 
