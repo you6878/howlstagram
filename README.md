@@ -1,4 +1,4 @@
-![alt text](https://github.com/you6878/howlstagram/blob/master/images/intro.png)
+![alt text](https://github.com/you6878/howlstagram/blob/master/images/intro.png|width=100)
 ![alt text](https://github.com/you6878/howlstagram/blob/master/images/main.png)
 ![alt text](https://github.com/you6878/howlstagram/blob/master/images/userpage.png)
 ![alt text](https://github.com/you6878/howlstagram/blob/master/images/detailpage.png)
