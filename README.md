@@ -1,4 +1,4 @@
-<img src=https://github.com/you6878/howlstagram/blob/master/images/intro.png width="100"> <img src=https://github.com/you6878/howlstagram/blob/master/images/main.png> <img src=https://github.com/you6878/howlstagram/blob/master/images/userpage.png> <img src=https://github.com/you6878/howlstagram/blob/master/images/detailpage.png>
+<img src=https://github.com/you6878/howlstagram/blob/master/images/intro.png width="200"> <img src=https://github.com/you6878/howlstagram/blob/master/images/main.png> <img src=https://github.com/you6878/howlstagram/blob/master/images/userpage.png> <img src=https://github.com/you6878/howlstagram/blob/master/images/detailpage.png>
 
 
 ■Firebase로 안드로이드 SNS 앱 만들기■
