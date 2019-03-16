@@ -22,7 +22,7 @@
 ▶구입
 - 예스24 (http://www.yes24.com/24/goods/62495788)
 
-▶자바 소스코드(카카오 개발자 권병수)
+▶자바 소스코드(개발자 권병수)
 
 하울스타그램 v1.0(https://github.com/stack07142/firebase-photos)
  - RealTimeDatabase
