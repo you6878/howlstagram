@@ -25,7 +25,7 @@
 ▶자바 소스코드(카카오 개발자 권병수)
 
 하울스타그램 v1.0(https://github.com/stack07142/firebase-photos)
- - RealTimeDatabase
+ - RealTimeDataba하울의se
  - Facebook, GoogleLogin, Email Login
  - Java 언어
  
@@ -38,6 +38,6 @@
 소스코드 공개 목적은 "한국이라 나라에서 코딩을 하는 사람들이 좀 더 좋은 코드를 배울 수 환경과 지식"을 위한 것 입니다.
 저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
 
-👉 유튜브 "하울의 코딩 채널" 많은 구독부탁드립니다.
+👉 유튜브 "Howlab" 많은 구독부탁드립니다.
  
  
