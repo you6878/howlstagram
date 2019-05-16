@@ -34,6 +34,10 @@
  - 저작권이 없는 공개 코드입니다. 이 코드로 수익을 창출하셔도 이의를 제기를 하지 않습니다. 
  - 소스코드 이용시 책을 구매하시거나 앱 정보란에 Howlstram 주소를 공유해주세요
  
+ VIDEO
+ 
+ Korean Live Version (강의당 평균 1시간) : https://www.youtube.com/playlist?list=PLmdU__e_zPf-pHH0WKz4QymykWqo4dkmq
+ English Recode Version (강의당 5분 ~ 10분) : https://www.youtube.com/playlist?list=PLmdU__e_zPf82uFuPZxsDQgT4Goj_urFK
  
 소스코드 공개 목적은 "한국이라 나라에서 코딩을 하는 사람들이 좀 더 좋은 코드를 배울 수 환경과 지식"을 위한 것 입니다.
 저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
