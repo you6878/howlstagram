@@ -36,9 +36,9 @@
  
  VIDEO
  
- - Korean Live Version (강의당 평균 1시간) : https://www.youtube.com/playlist?list=PLmdU__e_zPf-pHH0WKz4QymykWqo4dkmq
+ - Korean Recode Version : https://edu.goorm.io/lecture/16116/하울의-안드로이드-인스타그램-앱-만들기
  
- - English Recode Version (강의당 5분 ~ 10분) : https://www.youtube.com/playlist?list=PLmdU__e_zPf82uFuPZxsDQgT4Goj_urFK
+ - English Recode Version : https://www.youtube.com/playlist?list=PLmdU__e_zPf82uFuPZxsDQgT4Goj_urFK
  
 소스코드 공개 목적은 "한국이라 나라에서 코딩을 하는 사람들이 좀 더 좋은 코드를 배울 수 환경과 지식"을 위한 것 입니다.
 저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
