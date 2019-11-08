@@ -36,7 +36,7 @@
  
  VIDEO
  
- - Korean Recode Version : https://edu.goorm.io/lecture/16116/하울의-안드로이드-인스타그램-앱-만들기
+ - Korean Recode Version : https://www.inflearn.com/course/324447
  
  - English Recode Version : https://www.youtube.com/playlist?list=PLmdU__e_zPf82uFuPZxsDQgT4Goj_urFK
  
