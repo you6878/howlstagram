@@ -36,7 +36,7 @@
  
  VIDEO
  
- - Korean Recode Version : https://www.inflearn.com/course/324447
+ - Korean Recode Version : https://www.inflearn.com/course/코틀린-안드로이드-앱#
  
  - English Recode Version : https://www.youtube.com/playlist?list=PLmdU__e_zPf82uFuPZxsDQgT4Goj_urFK
  
