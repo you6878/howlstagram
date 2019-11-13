@@ -36,7 +36,7 @@
  
  VIDEO
  
- - Korean Recode Version : https://www.inflearn.com/course/코틀린-안드로이드-앱#
+ - Korean Recode Version : https://www.inflearn.com/course/인스타그램만들기-안드로이드#
  
  - English Recode Version : http://bit.ly/2Kh7TPJ
  
