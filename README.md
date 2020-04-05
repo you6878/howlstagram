@@ -29,11 +29,11 @@
  - Facebook, GoogleLogin, Email Login
  - Java 언어
 
-▶파이어베이스 V16 기반의 인스타그램클론 최신코드
+▶파이어베이스 V16 기반의 하울스타그램 v2.0(https://github.com/you6878/Howlstaram_f16)
 
 최근 파이어베이스가 사용방식이 수정되어 최신소스코드르 원하시는 분들이 많은 걸로 알고 있습니다.
 조만간 수정본을 출판할 예정이며 일단 소스코드 코드 먼저 공유드립니다.
-하울스타그램 v2.0(https://github.com/you6878/Howlstaram_f16)
+
  
  
 📖 저작권
