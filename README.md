@@ -28,6 +28,8 @@
  - RealTimeDataba하울의se
  - Facebook, GoogleLogin, Email Login
  - Java 언어
+
+ 
  
 📖 저작권
 
@@ -39,6 +41,13 @@
  - Korean Recode Version : https://www.inflearn.com/course/인스타그램만들기-안드로이드#
  
  - English Recode Version : http://bit.ly/2Kh7TPJ
+ 
+  ▶파이어베이스 V16 기반의 인스타그램클론 최신코드
+
+   최근 파이어베이스가 사용방식이 수정되어 최신소스코드르 원하시는 분들이 많은 걸로 알고 있습니다.
+   조만간 수정본을 출판할 예정이며 일단 소스코드 코드 먼저 공유드립니다.
+   하울스타그램 v2.0(https://github.com/you6878/Howlstaram_f16)
+ 
  
 소스코드 공개 목적은 "한국이라 나라에서 코딩을 하는 사람들이 좀 더 좋은 코드를 배울 수 환경과 지식"을 위한 것 입니다.
 저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
