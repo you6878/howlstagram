@@ -54,7 +54,7 @@
 저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
 
 코드의 부족한 부분이나 이해가 안되는 부분은 네이버카페 "[하울의 코딩 채널](https://cafe.naver.com/howlcode)"혹은
-카카오톡 오픈 채팅(https://open.kakao.com/o/gGn2mAnc)에서 문의해주시길 바랍니다.
+카카오톡 오픈 채팅 (https://open.kakao.com/o/gGn2mAnc) 에서 문의해주시길 바랍니다.
 
 👉 유튜브 "Howlab" 많은 구독부탁드립니다.
  
